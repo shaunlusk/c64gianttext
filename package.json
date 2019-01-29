@@ -1,0 +1,15 @@
+{
+  "name": "c64gianttext",
+  "version": "0.1.0",
+  "description": "Produce \"Giant\" Text based on C64 Font using Ascii characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Lusk",
+  "license": "MIT",
+  "dependencies": {
+    "C64Style": "github:shaunlusk/c64style#develop",
+    "slcommon": "github:shaunlusk/slcommon#develop"
+  }
+}
